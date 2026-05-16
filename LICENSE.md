@@ -1,4 +1,4 @@
-
+high-speed App for Mullvad - DNS-leak-protection and dynamic-IP is the best Mullvad app, featuring DNS-leak-protection and dynamic-IP. Secure, fast, and optimized for privacy.
 
 
 
